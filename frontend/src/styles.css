@@ -7,6 +7,6 @@ body { margin:0; font-family: "Courier New", monospace; background: var(--bg); c
 table { width:100%; border-collapse:collapse; background:var(--panel); }
 th,td { border:1px solid var(--grid); padding:0.35rem 0.5rem; }
 button { background:var(--accent); color:#fff; border:0; padding:0.35rem 0.75rem; cursor:pointer; }
-input { border:1px solid var(--grid); padding:0.3rem; }
+input, select { border:1px solid var(--grid); padding:0.3rem; }
 a { color: var(--accent); }
 .hero-num { font-size:1.8rem; font-weight:700; }
